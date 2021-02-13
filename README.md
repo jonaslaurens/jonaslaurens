@@ -5,7 +5,7 @@
 - Fun fact: I love to play guitar and read comics
 
 ### Connect with me
-[<img align="left" alt="jonaslaurens | LinkedIn" width="22px" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" />][linkedin]
+[<img align="left" alt="jonaslaurens | LinkedIn" width="22px" style="padding: 0 0 0 0;" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" />][linkedin]
 
 </br >
 
