@@ -1,7 +1,7 @@
-### Hi there, i'm Jonas
+### Hi there, I'm Jonas
 
 ## I'm a Husband, Father and Developer
-- I'm working on a side project called Comic Grading App
+- I'm currently working on a side project called Comic Grading App
 - Fun fact: I love to play guitar and read comics
 
 ### Connect with me
