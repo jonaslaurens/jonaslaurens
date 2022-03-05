@@ -1,8 +1,7 @@
 <h1 style="font-size: 40px;">&ltJonas Laurens /></h1>
 
 <section style="margin: 0 0 30px 0;">
-<h2 style="font-size: 25px;">&lt I'm a /><h2>
-
+<h2 style="font-size: 25px; border-bottom: none;">&ltI'm a /><h2>
 <ul style="padding-left: 20px">
   <li style="list-style-type: none; font-size: 16px;">👨‍💻 Frontend Developer</li>
   <li style="list-style-type: none; font-size: 16px;">👨‍👧‍👦 Father of 2</li>
@@ -18,7 +17,7 @@
 </section>
 
 <section style="margin: 0 0 30px 0;">
-<h2 style="font-size: 25px;">&ltLanguages and Tools /></h2>
+<h2 style="font-size: 25px; border-bottom: none;">&ltLanguages and Tools /></h2>
   <img style="height: 40px; width: 40px; margin: 5px;" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="JavaScript" />
   <img style="height: 40px; width: 40px; margin: 5px;" src="https://upload.wikimedia.org/wikipedia/commons/4/47/React.svg" alt="React" />
   <img style="height: 40px; width: 40px; margin: 5px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png" alt="TypeScript" />
@@ -35,7 +34,7 @@
 </section>
 
 <section style="margin: 0 0 30px 0;">
-  <h2 style="font-size: 25px;">&ltYou can find me at /></h2>
+  <h2 style="font-size: 25px; border-bottom: none;">&ltYou can find me at /></h2>
   <a href="https://jolau.be/" target="blank">
     <img style="height: 40px; width: 40px; margin: 5px;  filter: invert(60%) sepia(68%) saturate(1715%) hue-rotate(104deg) brightness(102%) contrast(102%);" align="center" src="https://cdn.pixabay.com/photo/2019/09/12/13/47/pictogram-4471660_960_720.png" alt="JonasLaurens" />
   </a>
