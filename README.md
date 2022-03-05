@@ -3,16 +3,16 @@
 <section style="margin: 0 0 30px 0;">
 <h2 style="font-size: 25px;">&lt I'm a /><h2>
 
-<ul style="list-style-type: none; font-size: 16px; padding-left: 20px">
-  <li>👨‍💻 Frontend Developer</li>
-  <li>👨‍👧‍👦 Father of 2</li>
-  <li>🛕 JavaScript Devotee</li>
-  <li>🤩 Comic enthusiast</li>
-  <li>⚛️ ReactJS adherent</li>
-  <li>🚀 Techie</li>
-  <li>🌍 Web Developer</li>
-  <li>🎸 Guitarist</li>
-  <li>🎥 Cinephile</li>
+<ul style="padding-left: 20px">
+  <li style="list-style-type: none; font-size: 16px;">👨‍💻 Frontend Developer</li>
+  <li style="list-style-type: none; font-size: 16px;">👨‍👧‍👦 Father of 2</li>
+  <li style="list-style-type: none; font-size: 16px;">🛕 JavaScript Devotee</li>
+  <li style="list-style-type: none; font-size: 16px;">🤩 Comic enthusiast</li>
+  <li style="list-style-type: none; font-size: 16px;">⚛️ ReactJS adherent</li>
+  <li style="list-style-type: none; font-size: 16px;">🚀 Techie</li>
+  <li style="list-style-type: none; font-size: 16px;">🌍 Web Developer</li>
+  <li style="list-style-type: none; font-size: 16px;">🎸 Guitarist</li>
+  <li style="list-style-type: none; font-size: 16px;">🎥 Cinephile</li>
 </ul>
 
 </section>
