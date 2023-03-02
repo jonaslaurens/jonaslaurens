@@ -25,7 +25,7 @@
   <img style="height: 40px; width: 40px; margin: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/640px-Angular_full_color_logo.svg.png" alt="Angular" />
   <img style="height: 40px; width: 40px; margin: 10px;" src="https://cdn.iconscout.com/icon/free/png-256/node-js-1174925.png" alt="Node" />
   <img style="height: 40px; width: 40px; margin: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" alt="GraphQl" />
-  <img style="height: 40px; width: 40px; margin: 10px;" src="https://webpack.js.org/icon-pwa-512x512.d3dae4189855b3a72ff9.png" alt="Webpack" />
+  <img style="height: 40px; width: 40px; margin: 10px;" src="https://webpack.js.org/site-logo.c0e60df418e04f58.svg" alt="Webpack" />
   <img style="height: 40px; width: 40px; margin: 10px;" src="https://seeklogo.com/images/V/vite-logo-BFD4283991-seeklogo.com.png" alt="Vite" />
   <img style="height: 40px; width: 40px; margin: 10px;" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" />
   <img style="height: 40px; width: 40px; margin: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/2101px-Adobe_Illustrator_CC_icon.svg.png" alt="Illustrator" />
